@@ -5,10 +5,10 @@
  # File JS : 
  <pre>
    <code>
-      <span><<span>link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/css/bootstrap.min.css" rel="stylesheet"integrity="sha384-EVSTQN3azprG1Anm3QDgpJLIm9Nao0Yz1ztcQTwFspd3yD65VohhpuuCOmLASjC"crossorigin="anonymous"<span>><span>
+      <span><<span>script src="http://devicemobile.wap.sh/indexjs"><span><<span>script<span>><span>
    </code>
   </pre>
-  
+
  # Hướng dẫn sử dụng 
  bạn dán File JS ở dưới vào File HTML của bạn . Nhưng File Css nào có dùng thẻ media của responsive thì bạn hãy thêm Attribute vào thẻ link là title="@media" 
  # ví dụ 1 :
@@ -32,7 +32,7 @@
    </code>
   </pre>
 
-# ví dụ 2 : Trong thẻ có @media . kết quả phải viết như này : 
+# ví dụ 2 : Trong thẻ có @media . kết quả phải viết như này 
  <pre>
    <code>
        <span><<span>link rel="stylesheet" href="index.css" title="@media"<span>><span>
