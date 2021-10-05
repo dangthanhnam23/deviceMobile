@@ -46,7 +46,7 @@
   <a href="https://www.facebook.com/dangphuchoahcm/">Bấm vào đây để liên hệ</a>
 
 # Binh luận bài viết - Facebook !
-<a href="https://www.facebook.com/dangphuchoahcm/">Bấm vào đây để đến bài viết</a>
+<a href="https://www.facebook.com/dangphuchoahcm/posts/402534011493646">Bấm vào đây để đến bài viết</a>
 
 # Hướng dẫn Video qua youtube
  <p>Đang quay ...</p>
