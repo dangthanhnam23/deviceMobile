@@ -5,7 +5,7 @@
  # File JS : 
  <pre>
    <code>
-      <span><<span>script src="http://devicemobile.wap.sh/indexjs"><span><<span>script<span>><span>
+      <span><<span>script src="http://devicemobile.wap.sh/index.js"><span><<span>script<span>><span>
    </code>
   </pre>
 
